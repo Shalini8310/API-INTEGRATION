@@ -46,3 +46,7 @@ Weather: Clear Sky
 Learning Outcomes
 
 This project helped me understand API integration, asynchronous programming, and JSON data handling. I also improved my front-end development skills and learned how to create an interactive and visually appealing web application.
+
+OUTPUT
+
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/f57ff020-3b51-4370-b014-ccd2d1cb946e" />
